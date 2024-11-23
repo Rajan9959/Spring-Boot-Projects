@@ -1,0 +1,21 @@
+BANKING APPLICATION BY USING SPRING BOOT 3, SPRING DATA JPA AND MYSQL DRIVER.
+
+Project : Maven
+Language : Java
+Spring boot version : 3.2.2
+
+Project Metadata :-
+			Group : com.raj
+			Artifact : banking-app
+			Name : banking app
+			Description : Demo project for Spring boot banking app
+			package name : com.raj.banking
+			packaging : Jar
+			Java : 17
+			
+Dependencies/Starters :-
+				1. Spring Web
+				2. Spring Data JPA
+				3. MySQL Driver
+				4. Lombok
+				5. Spring Dev Tools
